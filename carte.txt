@@ -1,0 +1,31 @@
+#!/bin/bash
+ENTREES
+1- chat pot : 12€
+2- chat thon : 8€
+3- varech en croute : 3€ 
+4- copeaux de safran verglassé : 76€
+5- Pâté de carmargue milésimé 1540 : 120€
+6- Sel au poivre : 6€
+
+PLATS
+1- salade décomposée : 17€
+2- agneau déconfiné : 23€
+3- chat d'or : 27€ 
+4- pelardon desséché : 14€
+5- lasagne au goudron : 11€
+6- salade de betterave jaune : 16€
+7- soupe de gruyère : 25€
+8- beurre aux pâtes : 19€
+
+DESSERTS
+1- chat lumot : 4€
+2- tiramisu façon parmentier : 31€
+3- beurette au four : 24€
+4- chips au nutella Gold Edition : 50€
+
+BOISSONS
+
+1- coca cola aux glaçons : 17€
+2- smoothie champignon : 18€
+3- ice tea chaud : 15€
+4- shooter de cidre maison : 87€
